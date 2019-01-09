@@ -54,6 +54,7 @@ body {
 }
 .header .user {
   justify-self: end;
+  margin-right: 15px;
 }
 .header .user img {
   width: 50px;
